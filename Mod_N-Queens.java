@@ -3,7 +3,7 @@ package ai;
 import java.io.*;
 import java.util.*;
 
-public class homework {
+public class Mod_N-Queens {
 	
 	public static int[][] inp;
 	public static int wh;
